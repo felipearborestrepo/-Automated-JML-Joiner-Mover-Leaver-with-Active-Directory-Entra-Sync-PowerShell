@@ -151,6 +151,7 @@ foreach ($u in $DisabledUsers) {
 
 Write-Log "==== JML Automation Run Finished ===="
 
+```
 📸 **Screenshots**
 
 ![Image 2-4-26 at 22 59](https://github.com/user-attachments/assets/d175cc11-2058-4736-a03c-1b43e12aa966)
